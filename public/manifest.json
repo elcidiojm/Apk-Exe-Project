@@ -1,0 +1,17 @@
+{
+  "name": "Gestão de Clientes e Vendas",
+  "short_name": "Gestão Vendas",
+  "description": "Sistema de gestão de clientes, encomendas, pagamentos, dívidas e stock com suporte a produtos digitais e físicos em Meticais (MT).",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

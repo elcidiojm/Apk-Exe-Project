@@ -1,0 +1,10 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Permissões para sistema de gestão de clientes e vendas
+    // Permite sincronização em tempo real entre todos os dispositivos e lojas
+    match /{document=**} {
+      allow read, write: if true;
+    }
+  }
+}

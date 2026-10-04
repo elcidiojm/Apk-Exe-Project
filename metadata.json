@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Clientes e Vendas",
+  "description": "Sistema de gestão de clientes, encomendas, pagamentos, dívidas e stock com suporte a produtos digitais e físicos em Meticais (MT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

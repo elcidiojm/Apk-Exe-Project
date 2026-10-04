@@ -1,0 +1,22 @@
+=====================================================================
+      GESTAO DE CLIENTES E VENDAS - MOCAMBIQUE (VERSAO OFFLINE)
+=====================================================================
+
+CARACTERISTICAS DESTA VERSAO:
+- 100% Silencioso: Nao abre nenhuma tela preta de CMD.
+- Sem Conta Google: Nao pede login de Conta Google nem Cloud Run.
+- 100% Offline: Funciona sem internet diretamente no seu computador.
+- Icone Oficial: Atalho criado com icone executivo no Ambiente de Trabalho.
+
+COMO UTILIZAR:
+1. Para instalar o atalho: Dê duplo clique em "Instalar_Atalho_Ambiente_Trabalho.vbs"
+   ou execute o ficheiro de instalacao "Instalador_Gestao_Clientes_Vendas_OFFLINE_Setup.exe".
+2. Para abrir o sistema a qualquer momento: Dê duplo clique no atalho criado no Ambiente de Trabalho.
+
+UTILIZADORES E SENHAS DE ACESSO AO SISTEMA:
+- Administrador: utilizador "admin"    | Senha / PIN: 1234
+- Vendedor:      utilizador "vendedor" | Senha / PIN: 2222
+- Armazém:       utilizador "armazem"  | Senha / PIN: 3333
+
+Bom trabalho e boas vendas!
+=====================================================================

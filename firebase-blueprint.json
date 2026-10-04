@@ -1,0 +1,89 @@
+{
+  "entities": {
+    "clients": {
+      "title": "Clientes",
+      "description": "Registo de clientes e respetivos contactos",
+      "type": "object"
+    },
+    "products": {
+      "title": "Produtos",
+      "description": "Catálogo de produtos físicos e digitais",
+      "type": "object"
+    },
+    "orders": {
+      "title": "Encomendas",
+      "description": "Registo de vendas e encomendas com itens",
+      "type": "object"
+    },
+    "payments": {
+      "title": "Pagamentos",
+      "description": "Pagamentos efetuados e recibos emitidos",
+      "type": "object"
+    },
+    "stockMovements": {
+      "title": "Movimentos de Stock",
+      "description": "Histórico de entradas, saídas e ajustes de stock",
+      "type": "object"
+    },
+    "customerDevices": {
+      "title": "Dispositivos de Clientes",
+      "description": "Aparelhos e mídias entregues por clientes para gravação",
+      "type": "object"
+    },
+    "cashClosures": {
+      "title": "Fechos de Caixa",
+      "description": "Registo diário de conferência e fecho de caixa",
+      "type": "object"
+    },
+    "users": {
+      "title": "Utilizadores",
+      "description": "Contas de operadores, administradores e vendedores",
+      "type": "object"
+    },
+    "suppliers": {
+      "title": "Fornecedores",
+      "description": "Fornecedores de mercadorias e serviços",
+      "type": "object"
+    },
+    "purchases": {
+      "title": "Compras",
+      "description": "Compras efetuadas a fornecedores",
+      "type": "object"
+    },
+    "expenses": {
+      "title": "Despesas",
+      "description": "Registo de despesas e custos operacionais",
+      "type": "object"
+    },
+    "proformas": {
+      "title": "Faturas Proforma",
+      "description": "Orçamentos e cotações para clientes",
+      "type": "object"
+    },
+    "warehouses": {
+      "title": "Armazéns",
+      "description": "Lojas e armazéns de distribuição de stock",
+      "type": "object"
+    },
+    "stockTransfers": {
+      "title": "Transferências de Stock",
+      "description": "Transferência de produtos entre armazéns",
+      "type": "object"
+    },
+    "batches": {
+      "title": "Lotes de Produtos",
+      "description": "Controlo de lotes e datas de validade",
+      "type": "object"
+    },
+    "commissionPayments": {
+      "title": "Pagamentos de Comissões",
+      "description": "Comissões pagas aos vendedores",
+      "type": "object"
+    },
+    "system_backups": {
+      "title": "Backups do Sistema",
+      "description": "Cópias de segurança automáticas e manuais do banco de dados",
+      "type": "object"
+    }
+  }
+}
